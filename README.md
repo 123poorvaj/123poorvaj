@@ -1,9 +1,9 @@
 # 💫 About Me:
-💫I’m a student at SDMIT and also learning through NxtWave.  <br>🟡I build and learn web projects using HTML, CSS, Bootstrap.  <br>💫I know basic Python (OOP) and I am currently learning databases and JavaScript via NxtWave.  <br>   <br>🦾Tech & Skills  <br>     HTML, CSS, Bootstrap  <br>     Basic Python (OOP)  <br>     Learning: JavaScript, Databases (SQL / NoSQL)
+💫I’m a student at SDMIT and also learning through NxtWave.  <br>🟡I build and learn web projects using HTML, CSS, Bootstrap.  <br>💫I know basic Python (OOP) and I am currently learning databases and JavaScript via NxtWave.  <br>   <br>🦾Tech & Skills  <br>     HTML, CSS, Bootstrap  <br>     Basic Python (OOP)  <br>     Learning: JavaScript, Databases (SQLite)
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Poorvaj M Gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Poorvaj Gowda) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Poorvaj-M-Gowda) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Poorvaj-Gowda) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)
